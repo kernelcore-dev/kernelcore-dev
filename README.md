@@ -6,7 +6,7 @@
 
 *Building everything from custom programming languages to operating systems*
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2u55C9RCyS
+[![Discord](https://img.shields.io/badge/Join%20My%20Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2u55C9RCyS)
 [![GitHub followers](https://img.shields.io/github/followers/kernelcore-dev?style=for-the-badge&logo=github)](https://github.com/kernelcore-dev)
 [![GitHub Stars](https://img.shields.io/github/stars/kernelcore-dev?style=for-the-badge&logo=github)](https://github.com/kernelcore-dev)
 
