@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### Languages I know (only some i know a FEW more not many more)
+### Languages I know (only some i know a FEW more not many more like 1 or 2)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -58,10 +58,10 @@
 
 ##  Current Focus
 
-- 🔨 Building low-level systems and tools
-- 🧠 Designing programming language architectures [actively working on SPIDER!]
-- 🌐 Contributing to open-source projects
-- 💬 Helping developers in my Discord community
+-  Building low-level systems and tools
+-  Designing programming language architectures [actively working on SPIDER!]
+-  Contributing to open-source projects
+-  Helping developers in my Discord community
 
 ---
 
