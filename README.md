@@ -6,7 +6,7 @@
 
 *Building everything from custom programming languages to operating systems*
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2u55C9RCyS
 [![GitHub followers](https://img.shields.io/github/followers/kernelcore-dev?style=for-the-badge&logo=github)](https://github.com/kernelcore-dev)
 [![GitHub Stars](https://img.shields.io/github/stars/kernelcore-dev?style=for-the-badge&logo=github)](https://github.com/kernelcore-dev)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,9 +69,8 @@
 
 <div align="center">
 
-[![Discord Server](https://img.shields.io/badge/Join%20My%20Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Discord Server](https://img.shields.io/badge/Join%20My%20Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2u55C9RCyS)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kcdevoffical)
 
 </div>
 
