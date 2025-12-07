@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### Languages I Master
+### Languages I know (only some i know a FEW more not many more)
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://image2url.com/images/1765143560085-58683ebc-256b-42a9-afcf-39b6e52187aa.png" alt="Spider" width="50" height="50"/>
+
 </p>
 
 ### What I Build
