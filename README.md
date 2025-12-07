@@ -1,8 +1,8 @@
-# 👋 Hey, I'm [Your Name]
+# Hey, I'm kernel core dev!
 
 <div align="center">
   
-### 🚀 Advanced Developer | Language & OS Architect | Systems Programmer
+### Dev | Language and OS builder | Systems Programmer
 
 *Building everything from custom programming languages to operating systems*
 
@@ -32,15 +32,15 @@
 ### What I Build
 
 ```
-🔧 Custom Programming Languages  │  ⚙️ Operating Systems
-🖥️ System-Level Programs         │  🛠️ Compilers & Interpreters
+ Custom Programming Languages  │   Operating Systems
+ System-Level Programs         │   Compilers & Interpreters
 ```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -54,16 +54,16 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - 🔨 Building low-level systems and tools
-- 🧠 Designing programming language architectures
+- 🧠 Designing programming language architectures [actively working on SPIDER!]
 - 🌐 Contributing to open-source projects
 - 💬 Helping developers in my Discord community
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 <div align="center">
   
-### 💡 *"From Assembly to Abstractions - Building the Future of Computing"*
+###  *"From nerds to coding building the future*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kernelcore-dev&color=blueviolet&style=flat-square)
 
